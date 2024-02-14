@@ -9,7 +9,7 @@ openingPhrase: "Aiiiiiiiiii, Will you be my valentine ? Ndak pake password ko se
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Txu aiiiiiii, Love you - xoxo"
+acceptedPhrase: "Yay, Makasih ya aiiiiiii, Love you - xoxo"
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
