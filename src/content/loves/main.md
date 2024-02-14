@@ -1,15 +1,15 @@
 ---
 # title: string
 # Will be used for HTML Title
-title: "My Valentine"
+title: "dari Rizky AK untuk Aisyah NF"
 
 # openingPhrase: string
 # Will be used for opening phrase (header on main page)
-openingPhrase: "Will you be my valentine?"
+openingPhrase: "Aiiiiiiiiii, Will you be my valentine ? Ndak pake password ko sekarang"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Love you too - xoxo"
+acceptedPhrase: "Yay, Txu aiiiiiii, Love you - xoxo"
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
